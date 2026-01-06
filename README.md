@@ -47,7 +47,7 @@ This tool is particularly useful for:
 
 1. **Clone the Repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Arnab-Ghosh7/Image_WebScrapper
    cd Image_WebScrapper
    ```
 
